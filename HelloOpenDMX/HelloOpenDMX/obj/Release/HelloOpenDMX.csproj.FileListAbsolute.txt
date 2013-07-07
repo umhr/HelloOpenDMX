@@ -1,0 +1,8 @@
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\bin\Release\HelloOpenDMX.exe.config
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\bin\Release\HelloOpenDMX.exe
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\bin\Release\HelloOpenDMX.pdb
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\obj\Release\HelloOpenDMX.Form1.resources
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\obj\Release\HelloOpenDMX.Properties.Resources.resources
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\obj\Release\HelloOpenDMX.csproj.GenerateResource.Cache
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\obj\Release\HelloOpenDMX.exe
+C:\Users\mba7\SkyDrive\studies\1307\HelloOpenDMX\HelloOpenDMX\obj\Release\HelloOpenDMX.pdb
